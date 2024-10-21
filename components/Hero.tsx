@@ -55,7 +55,9 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Shivani, a Software Developer enthusiast.
+            Hi! I&apos;m Shivani, a passionate Software Developer enthusiast
+            with a strong interest in creating innovative solutions and
+            exploring new technologies.
           </p>
 
           <a
